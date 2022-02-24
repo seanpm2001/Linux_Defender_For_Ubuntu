@@ -1,0 +1,14 @@
+#!/usr/bin/env python
+# Dependencies
+python_version = str("3.0 or later")
+bash_version = str("5.0 or later")
+gnu_make_version = str("1.0 or later")
+css_version = str("3.0 or later")
+c_version = str("C99 or later")
+vala_version = str("Any post-beta release")
+genie_version = str("Any post-beta release")
+ubuntu_version = str("NOT SET")
+json_version = str("NOT SET")
+html_version = str("5.0 or later")
+# File version: 1 (2022, Thursday, February 24th at 3:06 pm)
+# Line count (including blank lines and compiler line): 15
